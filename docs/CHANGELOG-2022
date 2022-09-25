@@ -1,3 +1,11 @@
+25-09-2202  René Huiberts  <rhuibertsjr@gmail.com>
+
+        * src/index.js: Removed binaries from src/ folder.
+
+25-09-2202  René Huiberts  <rhuibertsjr@gmail.com>
+
+        * License: Added the GPLv3 license.
+
 24-09-2202  René Huiberts  <rhuibertsjr@gmail.com>
 
         Initial project setup.
